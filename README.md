@@ -1,13 +1,13 @@
 # Hi, I'm Leyli Shadurdyyeva! 👋  
 
-I’m a **third-year CTIS student at Bilkent University**, combining my passion for software development and **data analysis** to solve real-world challenges. With a global perspective and hands-on technical skills, I aim to create meaningful solutions that positively impact the tech industry.  
+I’m a **fourth-year CTIS student at Bilkent University**, combining my passion for software development and **data analysis** to solve real-world challenges. With a global perspective and hands-on technical skills, I aim to create meaningful solutions that positively impact the tech industry.  
 
 ---
 
 ## 🌟 **About Me**  
 - 🎓 **Education:**  
   - Bilkent University, Bachelor of Applied Sciences in Computer Technology and Information Systems  
-    *GPA: 3.83 / 4.0 | High Honor*  
+    *GPA: 3.85 / 4.0 | High Honor*  
   - Ashgabat International School  
     *GPA: 4.0 / 4.0 | High Honor*  
 
